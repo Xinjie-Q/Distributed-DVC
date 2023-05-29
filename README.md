@@ -6,7 +6,7 @@ The official PyTorch implementation of our **ICME 2023** paper:
 
 [Xinjie Zhang](https://xinjie-q.github.io/), [Jiawei Shao](https://shaojiawei07.github.io/), [Jun Zhang](https://eejzhang.people.ust.hk/)
 
-[[ArXiv Preprint](https://arxiv.org/abs/2301.11599)]
+[[ArXiv Preprint](https://arxiv.org/abs/2303.11599v2)]
 
 ### :bookmark:Brief Introduction
 
